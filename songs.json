@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3,
+    "title": "Nee Kannu Neeli Samudram",
+    "artist": "Javed Ali",
+    "plays": "120M",
+    "image": "https://img.youtube.com/vi/tflQ33g6I8I/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Ramuloo Ramulaa",
+    "artist": "Anurag Kulkarni",
+    "plays": "180M",
+    "image": "https://img.youtube.com/vi/Bg8Yb9zGYyA/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Vachindamma",
+    "artist": "Sid Sriram",
+    "plays": "100M",
+    "image": "https://img.youtube.com/vi/aFxCUBdnlkA/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Oo Antava Oo Oo Antava",
+    "artist": "Indravathi Chauhan",
+    "plays": "220M",
+    "image": "https://img.youtube.com/vi/vFKntuHx4Gc/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Srivalli",
+    "artist": "Sid Sriram",
+    "plays": "300M",
+    "image": "https://img.youtube.com/vi/09phbyqm3fg/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Undipova",
+    "artist": "Sathyavathi",
+    "plays": "75M",
+    "image": "https://img.youtube.com/vi/2_4yQc0Gl2E/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Inkem Inkem Inkem Kaavale",
+    "artist": "Sid Sriram",
+    "plays": "280M",
+    "image": "https://img.youtube.com/vi/rQA5YM9UDrg/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Nuvvostanante Nenoddantana",
+    "artist": "Udit Narayan",
+    "plays": "95M",
+    "image": "https://img.youtube.com/vi/hpnHZ_x9YQ0/hqdefault.jpg",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+  }
+]
